@@ -1,21 +1,20 @@
 ejercicio 3
-Nombre: [sebastian ochoa/ 24-10667]
+Nombre: [sebastian ochoa]
 Materia: [computacion I]
 Actividad: Promedio y varianza de una muestra
 Uso de IA: ChatGPT (OpenAI)
-Fecha: 09/05/2026
+Fecha: 10/05/2026
 
 ejercicio 4
-Nombre: [sebastian ochoa/ 24-10667]
+Nombre: [sebastian ochoa]
 Materia: [computacion I]
-Actividad: Promedio y varianza de una muestra
-Uso de IA: ChatGPT (OpenAI)
-Fecha: 09/05/2026
-
+Actividad: Coeficiente de correlación de Pearson
+Modelo de IA usado: ChatGPT GPT-5.5 (OpenAI)
+Fecha: 10/05/2026
 
 ejercicio 5
-Nombre: [sebastian ochoa/ 24-10667]
+Nombre: [sebastian ochoa]
 Materia: [computacion I]
-Actividad: Promedio y varianza de una muestra
-Uso de IA: ChatGPT (OpenAI)
-Fecha: 09/05/2026
+Actividad: Conversión entre sistemas numéricos alienígenas
+Modelo de IA usado: ChatGPT GPT-5.5 (OpenAI)
+Fecha: 10/05/2026
