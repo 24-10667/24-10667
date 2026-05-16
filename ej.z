@@ -1,6 +1,6 @@
 ejercicio 1
 
-# Ley de De Morgan 1:
+# Ley de De Morgan 1 :
 # ¬(P ∧ Q) ≡ (¬P ∨ ¬Q)
 
 de_morgan1 = lambda p, q: (not (p and q)) == ((not p) or (not q))
