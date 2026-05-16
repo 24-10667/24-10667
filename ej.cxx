@@ -10,7 +10,7 @@ def media(vector):
 
 
 def varianza(vector):
-    prom = media(vector)
+    prom = media(vector )
     suma = 0
     
     for numero in vector:
